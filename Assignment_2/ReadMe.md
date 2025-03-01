@@ -105,6 +105,6 @@ Can you think of additional features that could improve the classification accur
 
 - `F19-Pattern-Lab2.pdf`: The original lab document.
 - `images/`: Folder containing hand-drawn shape images.
-- `test\`: Folder containing the training-images for the classifiers
+- `test/`: Folder containing the training-images for the classifiers
 - `classiciation.ipynb`: File containing the ML pipeline as required.
 - `classification_utils.ipynb`: Implementation of all utilities needed.
